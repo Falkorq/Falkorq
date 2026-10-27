@@ -1,0 +1,24 @@
+{
+  "repository": "https://github.com/ziadOUA/m3-Markdown-Badges",
+  "commit": "29705300704be2b69814950d721c47a617e467f8",
+  "variant": 3,
+  "modified": false,
+  "files": {
+    "python": "badges/Python/python3.svg",
+    "html": "badges/HTML/html3.svg",
+    "css": "badges/CSS/css3.svg",
+    "javascript": "badges/Javascript/javascript3.svg",
+    "react": "badges/React/react3.svg",
+    "nodejs": "badges/NodeJS/nodejs3.svg",
+    "cpp": "badges/C++/c++3.svg",
+    "rust": "badges/Rust/rust3.svg",
+    "sqlite": "badges/SQLite/sqlite3.svg",
+    "cloudflare": "badges/Cloudflare/cloudflare3.svg",
+    "bots": "badges/Telegram/telegram3.svg",
+    "after-effects": "badges/AfterEffects/aftereffects3.svg",
+    "photoshop": "badges/Photoshop/photoshop3.svg",
+    "telegram": "badges/Telegram/telegram3.svg",
+    "discord": "badges/Discord/discord3.svg",
+    "email": "badges/Mail/mail3.svg"
+  }
+}
