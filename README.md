@@ -1,12 +1,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <img src="./assets/banner-light.png" alt="Yui / Falkorq — personal tools, a little automation, and catgirls. Vanilla from NEKOPARA in an icy blue Material 3 banner." width="100%">
+  <img src="./assets/banner-light.png" alt="Yui / Falkorq — Telegram communities, manga, and personal tools. Vanilla from NEKOPARA in an icy blue Material 3 banner." width="100%">
 </picture>
 
-I build things for myself: small apps, bots, and tools that make everyday life easier.
-I work with AI APIs, mostly DeepSeek, and sometimes swap code for After Effects and Photoshop.
+I work with Telegram communities: media management, ad buying, and media buying. 30K+ combined reach.
+I translate manga, build personal tools in Python and JavaScript, and work with the DeepSeek API.
 
-Most of my projects are private. Catgirls and Material Design 3 are very much public interests.
+Moscow, 18. Most projects are private. Catgirls and Material Design 3 are public interests.
 
 ### Code & tools
 
