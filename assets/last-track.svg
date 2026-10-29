@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img" aria-labelledby="title desc">
+  <title id="title">Last played · ネココタマツリ - 2008 — COOL&amp;CREATE</title>
+  <desc id="desc">ネココタマツリ - 2008 by COOL&amp;CREATE. Last played on stats.fm. Updated periodically, not a live playback indicator.</desc>
+  <style>
+    :root { --surface:#E8EDF6; --disc:#D5E3FF; --ink:#191C20; --muted:#43474E; --primary:#315E97; }
+    @media (prefers-color-scheme:dark) { :root { --surface:#20262F; --disc:#1B467D; --ink:#DFE2EB; --muted:#C3C6CF; --primary:#A5C8FF; } }
+    text { font-family:Segoe UI,Arial,sans-serif; }
+  </style>
+  <defs><clipPath id="copy"><rect x="163" y="50" width="411" height="95"/></clipPath></defs>
+  <rect width="600" height="170" rx="28" fill="var(--surface)"/>
+  <rect x="22" y="25" width="120" height="120" rx="28" fill="var(--disc)"/>
+  <circle cx="82" cy="85" r="39" stroke="var(--primary)" stroke-width="2" fill="none"/>
+  <circle cx="82" cy="85" r="27" stroke="var(--primary)" stroke-width="1" opacity=".4" fill="none"/>
+  <circle cx="82" cy="85" r="9" fill="var(--primary)"/>
+  <text x="168" y="40" fill="var(--primary)" font-size="14">Last played on stats.fm</text>
+  <g clip-path="url(#copy)">
+  <text x="168" y="78" fill="var(--ink)" font-size="27" font-weight="600">ネココタマツリ - 2008</text>
+  <text x="168" y="107" fill="var(--muted)" font-size="21">COOL&amp;CREATE</text>
+  <text x="168" y="134" fill="var(--muted)" font-size="16">スーパーシャッターガール (COOL&amp;CREATE東方ボーカルコレクションIII)</text>
+  </g>
+  <path d="M551 27h16v16m0-16-20 20" stroke="var(--primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
