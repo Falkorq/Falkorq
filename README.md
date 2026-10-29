@@ -1,40 +1,19 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <img src="./assets/banner-light.png" alt="Yui / Falkorq — Telegram communities, manga, and personal tools. Vanilla from NEKOPARA in an icy blue Material 3 banner." width="100%">
-</picture>
+<div align="center">
 
-I work with Telegram communities: media management, ad buying, and media buying. 30K+ combined reach.
-I translate manga, build personal tools in Python and JavaScript, and work with the DeepSeek API.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Falkorq"></picture>
 
-Moscow, 18. Most projects are private. Catgirls and Material Design 3 are public interests.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="14.471%" alt=""></picture><a href="https://t.me/falkorq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/users/265162873674792960"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="Falkorq.moe"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="20.892%" alt="language"></picture></a><a href="https://www.tiktok.com/@falkorq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-4-dark.svg"><img src="assets/social-4-light.svg" width="15.488%" alt="tiktok"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="14.471%" alt=""></picture>
 
-### Code & tools
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-![Python](./assets/badges/python.svg)
-![HTML](./assets/badges/html.svg)
-![CSS](./assets/badges/css.svg)
-![JavaScript](./assets/badges/javascript.svg)
-![React](./assets/badges/react.svg)
-![Node.js](./assets/badges/nodejs.svg)
-![C++](./assets/badges/cpp.svg)
-![Rust](./assets/badges/rust.svg)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-![SQLite](./assets/badges/sqlite.svg)
-![Cloudflare](./assets/badges/cloudflare.svg)
-![Telegram bots](./assets/badges/bots.svg)
-![After Effects](./assets/badges/after-effects.svg)
-![Photoshop](./assets/badges/photoshop.svg)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-AI integrations: **DeepSeek API**.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
 
-### On repeat
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-[![Last played track from stats.fm — falkorq](./assets/last-track.svg)](https://stats.fm/falkorq)
+<a href="https://metawka.github.io/expressive-profile/?from=Falkorq"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-### Find me
-
-- [![Telegram](./assets/badges/telegram.svg)](https://t.me/falkorq) [@falkorq](https://t.me/falkorq)
-- ![Discord](./assets/badges/discord.svg) **nyuriri**
-- [![Email](./assets/badges/email.svg)](mailto:qq@nyaaa.moe) [qq@nyaaa.moe](mailto:qq@nyaaa.moe)
-
-<sub>Badges by <a href="https://github.com/ziadOUA/m3-Markdown-Badges">ziadOUA / m3-Markdown-Badges</a>.</sub>
+</div>
