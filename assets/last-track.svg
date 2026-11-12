@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="170" viewBox="0 0 600 170" role="img" aria-labelledby="title desc">
-  <title id="title">Last played · August — Intelligency</title>
-  <desc id="desc">August by Intelligency. Last played on stats.fm. Updated periodically, not a live playback indicator.</desc>
+  <title id="title">Last played · The Sign — Ace of Base</title>
+  <desc id="desc">The Sign by Ace of Base. Last played on stats.fm. Updated periodically, not a live playback indicator.</desc>
   <style>
     :root { --surface:#E8EDF6; --disc:#D5E3FF; --ink:#191C20; --muted:#43474E; --primary:#315E97; }
     @media (prefers-color-scheme:dark) { :root { --surface:#20262F; --disc:#1B467D; --ink:#DFE2EB; --muted:#C3C6CF; --primary:#A5C8FF; } }
@@ -14,9 +14,9 @@
   <circle cx="82" cy="85" r="9" fill="var(--primary)"/>
   <text x="168" y="40" fill="var(--primary)" font-size="14">Last played on stats.fm</text>
   <g clip-path="url(#copy)">
-  <text x="168" y="78" fill="var(--ink)" font-size="27" font-weight="600">August</text>
-  <text x="168" y="107" fill="var(--muted)" font-size="21">Intelligency</text>
-  <text x="168" y="134" fill="var(--muted)" font-size="16">August (DJ DimixeR Remix)</text>
+  <text x="168" y="78" fill="var(--ink)" font-size="27" font-weight="600">The Sign</text>
+  <text x="168" y="107" fill="var(--muted)" font-size="21">Ace of Base</text>
+  <text x="168" y="134" fill="var(--muted)" font-size="16">The Sign</text>
   </g>
   <path d="M551 27h16v16m0-16-20 20" stroke="var(--primary)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
 </svg>
